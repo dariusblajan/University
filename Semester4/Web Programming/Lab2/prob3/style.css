@@ -1,0 +1,47 @@
+header{
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .content {
+    padding: 20px;
+    min-height: 100%;
+    margin: 0 auto -50px;
+  }
+  .footer,
+  .push {
+    height: 50px;
+  }
+  
+  .footer{
+      background-color : pink;
+  }
+
+  ul{
+    list-style-type: none;
+    margin : 0;
+    padding: 0;
+    overflow:hidden;
+    background-color: yellow;
+    height: 40px;
+    border: 1px solid #555;
+}
+
+li{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border: 1px solid #555;
+}
+
+#bigDiv{
+    background-color : green;
+}
