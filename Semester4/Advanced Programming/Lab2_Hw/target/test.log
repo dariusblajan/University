@@ -2356,3 +2356,524 @@
 17 Mar 2019 21:38:31,886 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
 17 Mar 2019 21:38:31,886 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
 17 Mar 2019 21:38:31,887 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+19 Mar 2019 21:28:17,381 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@71b64d49: startup date [Tue Mar 19 21:28:17 EET 2019]; root of context hierarchy
+19 Mar 2019 21:28:17,414 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+19 Mar 2019 21:28:17,589 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+19 Mar 2019 21:28:17,592 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+19 Mar 2019 21:28:17,595 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+19 Mar 2019 21:28:17,597 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+19 Mar 2019 21:28:17,600 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+19 Mar 2019 21:28:17,662 INFO  AppStart 39 start - ready for stage show
+19 Mar 2019 21:28:24,855 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+19 Mar 2019 21:28:24,856 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+19 Mar 2019 21:28:24,857 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+19 Mar 2019 21:28:24,871 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+19 Mar 2019 21:28:25,025 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1632fff5: startup date [Tue Mar 19 21:28:25 EET 2019]; root of context hierarchy
+19 Mar 2019 21:28:25,025 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+19 Mar 2019 21:28:25,067 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+19 Mar 2019 21:28:25,068 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+19 Mar 2019 21:28:25,070 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+19 Mar 2019 21:28:25,072 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+19 Mar 2019 21:28:25,074 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+19 Mar 2019 21:28:25,190 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+19 Mar 2019 21:28:25,191 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+19 Mar 2019 21:28:25,191 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+19 Mar 2019 21:28:25,192 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+19 Mar 2019 21:28:25,211 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+19 Mar 2019 21:28:25,211 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+19 Mar 2019 21:28:25,212 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+19 Mar 2019 21:28:25,212 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+19 Mar 2019 21:28:25,221 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+19 Mar 2019 21:28:25,221 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+19 Mar 2019 21:28:25,221 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+19 Mar 2019 21:28:25,222 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:52:34,372 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@71b64d49: startup date [Wed Mar 20 08:52:34 EET 2019]; root of context hierarchy
+20 Mar 2019 08:52:34,405 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 08:52:34,596 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:34,599 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:34,602 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:34,604 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:34,607 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:34,662 INFO  AppStart 39 start - ready for stage show
+20 Mar 2019 08:52:38,004 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:52:38,005 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:52:38,005 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:52:38,011 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:52:38,183 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1632fff5: startup date [Wed Mar 20 08:52:38 EET 2019]; root of context hierarchy
+20 Mar 2019 08:52:38,184 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 08:52:38,217 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:38,218 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:38,220 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:38,223 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:38,226 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:38,336 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:52:38,337 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:52:38,337 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:52:38,338 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:52:38,358 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:52:38,358 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:52:38,359 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:52:38,359 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:52:38,368 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:52:38,368 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:52:38,369 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:52:38,369 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:52:49,734 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@dcf1714: startup date [Wed Mar 20 08:52:49 EET 2019]; root of context hierarchy
+20 Mar 2019 08:52:49,735 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 08:52:49,765 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:49,767 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:49,769 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:49,770 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:49,772 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:52:49,779 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:52:49,779 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:52:49,780 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:52:49,780 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:52:49,787 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:52:49,787 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:52:49,787 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:52:49,787 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:52:49,794 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:52:49,795 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:52:49,795 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:52:49,796 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:57:55,534 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5d602dd9: startup date [Wed Mar 20 08:57:55 EET 2019]; root of context hierarchy
+20 Mar 2019 08:57:55,558 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 08:57:55,705 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:57:55,708 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:57:55,711 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:57:55,715 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:57:55,718 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:57:55,773 INFO  AppStart 39 start - ready for stage show
+20 Mar 2019 08:57:58,825 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:57:58,826 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:57:58,827 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:57:58,838 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:57:58,993 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c4ed2d9: startup date [Wed Mar 20 08:57:58 EET 2019]; root of context hierarchy
+20 Mar 2019 08:57:58,994 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 08:57:59,033 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:57:59,034 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:57:59,036 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:57:59,038 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:57:59,040 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:57:59,128 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:57:59,128 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:57:59,128 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:57:59,129 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:57:59,145 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:57:59,146 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:57:59,146 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:57:59,146 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:57:59,155 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:57:59,156 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:57:59,156 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:57:59,156 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:58:27,117 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@72543d4c: startup date [Wed Mar 20 08:58:27 EET 2019]; root of context hierarchy
+20 Mar 2019 08:58:27,149 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 08:58:27,293 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:58:27,296 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:58:27,298 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:58:27,301 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:58:27,303 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:58:27,359 INFO  AppStart 39 start - ready for stage show
+20 Mar 2019 08:58:30,223 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:58:30,224 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:58:30,225 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:58:30,237 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:58:30,384 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ef70bc: startup date [Wed Mar 20 08:58:30 EET 2019]; root of context hierarchy
+20 Mar 2019 08:58:30,384 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 08:58:30,415 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:58:30,417 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:58:30,418 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:58:30,420 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:58:30,421 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:58:30,500 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:58:30,500 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:58:30,501 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:58:30,501 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:58:30,518 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:58:30,519 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:58:30,519 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:58:30,519 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:58:30,528 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:58:30,528 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:58:30,529 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:58:30,529 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:59:00,407 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:59:00,408 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:59:00,409 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:59:00,409 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:59:11,814 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5ace8544: startup date [Wed Mar 20 08:59:11 EET 2019]; root of context hierarchy
+20 Mar 2019 08:59:11,816 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 08:59:11,842 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:59:11,844 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:59:11,846 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:59:11,848 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:59:11,859 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 08:59:11,864 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:59:11,864 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:59:11,864 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:59:11,865 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:59:11,871 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:59:11,872 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:59:11,872 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:59:11,872 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 08:59:11,878 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 08:59:11,878 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 08:59:11,879 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 08:59:11,879 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:00:13,736 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4f58ed3a: startup date [Wed Mar 20 09:00:13 EET 2019]; root of context hierarchy
+20 Mar 2019 09:00:13,760 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:00:13,919 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:13,922 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:13,924 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:13,927 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:13,929 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:13,981 INFO  AppStart 39 start - ready for stage show
+20 Mar 2019 09:00:16,857 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:00:16,858 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:00:16,859 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:00:16,870 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:00:17,023 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7bf02d11: startup date [Wed Mar 20 09:00:17 EET 2019]; root of context hierarchy
+20 Mar 2019 09:00:17,024 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:00:17,058 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:17,059 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:17,061 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:17,063 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:17,065 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:17,141 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:00:17,142 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:00:17,142 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:00:17,142 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:00:17,161 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:00:17,162 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:00:17,162 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:00:17,162 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:00:17,171 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:00:17,172 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:00:17,172 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:00:17,172 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:00:32,399 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244883c3: startup date [Wed Mar 20 09:00:32 EET 2019]; root of context hierarchy
+20 Mar 2019 09:00:32,424 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:00:32,572 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:32,575 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:32,577 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:32,580 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:32,582 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:32,637 INFO  AppStart 39 start - ready for stage show
+20 Mar 2019 09:00:35,894 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:00:35,895 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:00:35,896 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:00:35,910 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:00:36,056 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4605d112: startup date [Wed Mar 20 09:00:36 EET 2019]; root of context hierarchy
+20 Mar 2019 09:00:36,057 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:00:36,092 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:36,094 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:36,095 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:36,097 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:36,099 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:36,179 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:00:36,179 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:00:36,179 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:00:36,179 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:00:36,198 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:00:36,198 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:00:36,198 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:00:36,199 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:00:36,208 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:00:36,208 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:00:36,209 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:00:36,209 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:00:48,176 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:00:48,177 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:00:48,178 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:00:48,179 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:00:56,465 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244883c3: startup date [Wed Mar 20 09:00:56 EET 2019]; root of context hierarchy
+20 Mar 2019 09:00:56,491 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:00:56,644 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:56,648 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:56,650 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:56,652 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:56,656 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:00:56,710 INFO  AppStart 39 start - ready for stage show
+20 Mar 2019 09:01:00,165 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:01:00,166 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:01:00,167 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:01:00,178 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:01:00,339 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2cf2713e: startup date [Wed Mar 20 09:01:00 EET 2019]; root of context hierarchy
+20 Mar 2019 09:01:00,339 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:01:00,373 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:01:00,375 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:01:00,376 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:01:00,377 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:01:00,379 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:01:00,471 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:01:00,472 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:01:00,472 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:01:00,472 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:01:00,488 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:01:00,489 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:01:00,489 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:01:00,489 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:01:00,498 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:01:00,499 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:01:00,499 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:01:00,499 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:02:00,175 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@72543d4c: startup date [Wed Mar 20 09:02:00 EET 2019]; root of context hierarchy
+20 Mar 2019 09:02:00,200 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:02:00,353 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:02:00,356 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:02:00,359 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:02:00,361 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:02:00,364 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:02:00,418 INFO  AppStart 39 start - ready for stage show
+20 Mar 2019 09:02:03,550 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:02:03,552 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:02:03,553 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:02:03,564 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:02:03,712 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@25f74a50: startup date [Wed Mar 20 09:02:03 EET 2019]; root of context hierarchy
+20 Mar 2019 09:02:03,713 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:02:03,745 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:02:03,747 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:02:03,749 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:02:03,750 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:02:03,752 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:02:03,848 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:02:03,849 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:02:03,849 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:02:03,849 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:02:03,867 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:02:03,868 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:02:03,868 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:02:03,869 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:02:03,876 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:02:03,877 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:02:03,877 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:02:03,877 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:02:12,582 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:02:12,584 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:02:12,584 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:02:12,585 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:03:05,024 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244883c3: startup date [Wed Mar 20 09:03:05 EET 2019]; root of context hierarchy
+20 Mar 2019 09:03:05,049 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:03:05,203 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:03:05,206 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:03:05,208 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:03:05,210 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:03:05,213 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:03:05,265 INFO  AppStart 39 start - ready for stage show
+20 Mar 2019 09:03:08,494 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:03:08,495 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:03:08,496 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:03:08,503 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:03:08,644 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4605d112: startup date [Wed Mar 20 09:03:08 EET 2019]; root of context hierarchy
+20 Mar 2019 09:03:08,645 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:03:08,678 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:03:08,680 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:03:08,681 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:03:08,682 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:03:08,684 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:03:08,759 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:03:08,760 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:03:08,760 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:03:08,760 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:03:08,779 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:03:08,779 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:03:08,780 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:03:08,780 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:03:08,789 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:03:08,789 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:03:08,789 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:03:08,789 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:03:13,459 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:03:13,459 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:03:13,459 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:03:13,459 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:04:58,491 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@719d4b49: startup date [Wed Mar 20 09:04:58 EET 2019]; root of context hierarchy
+20 Mar 2019 09:04:58,516 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:04:58,670 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:04:58,673 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:04:58,676 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:04:58,678 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:04:58,681 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:04:58,737 INFO  AppStart 39 start - ready for stage show
+20 Mar 2019 09:05:05,175 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:05:05,176 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:05:05,177 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:05:05,191 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:05:12,583 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11caa268: startup date [Wed Mar 20 09:05:12 EET 2019]; root of context hierarchy
+20 Mar 2019 09:05:12,584 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:05:12,651 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:05:12,653 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:05:12,654 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:05:12,656 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:05:12,658 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:05:12,747 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:05:12,748 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:05:12,748 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:05:12,748 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:05:12,765 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:05:12,765 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:05:12,766 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:05:12,766 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:05:12,774 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:05:12,774 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:05:12,774 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:05:12,775 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:05:58,671 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@250a23d: startup date [Wed Mar 20 09:05:58 EET 2019]; root of context hierarchy
+20 Mar 2019 09:05:58,672 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+20 Mar 2019 09:05:58,703 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:05:58,705 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:05:58,706 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:05:58,708 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:05:58,710 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+20 Mar 2019 09:05:58,715 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:05:58,716 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:05:58,716 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:05:58,716 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:05:58,723 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:05:58,723 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:05:58,723 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:05:58,724 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:05:58,730 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:05:58,730 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:05:58,730 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:05:58,730 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+20 Mar 2019 09:06:36,678 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+20 Mar 2019 09:06:36,679 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+20 Mar 2019 09:06:36,680 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+20 Mar 2019 09:06:36,681 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+03 Apr 2019 08:23:09,121 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244883c3: startup date [Wed Apr 03 08:23:09 EEST 2019]; root of context hierarchy
+03 Apr 2019 08:23:09,154 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+03 Apr 2019 08:23:09,324 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:23:09,327 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:23:09,329 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:23:09,331 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:23:09,334 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:23:09,392 INFO  AppStart 39 start - ready for stage show
+03 Apr 2019 08:23:15,246 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+03 Apr 2019 08:23:15,248 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+03 Apr 2019 08:23:15,249 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+03 Apr 2019 08:23:15,261 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+03 Apr 2019 08:23:15,436 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4605d112: startup date [Wed Apr 03 08:23:15 EEST 2019]; root of context hierarchy
+03 Apr 2019 08:23:15,437 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+03 Apr 2019 08:23:15,468 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:23:15,470 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:23:15,472 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:23:15,474 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:23:15,475 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:23:15,561 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+03 Apr 2019 08:23:15,561 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+03 Apr 2019 08:23:15,561 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+03 Apr 2019 08:23:15,562 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+03 Apr 2019 08:23:15,582 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+03 Apr 2019 08:23:15,583 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+03 Apr 2019 08:23:15,583 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+03 Apr 2019 08:23:15,584 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+03 Apr 2019 08:23:15,594 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+03 Apr 2019 08:23:15,594 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+03 Apr 2019 08:23:15,595 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+03 Apr 2019 08:23:15,595 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+03 Apr 2019 08:39:28,393 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3a608680: startup date [Wed Apr 03 08:39:28 EEST 2019]; root of context hierarchy
+03 Apr 2019 08:39:28,420 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+03 Apr 2019 08:39:28,568 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:39:28,571 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:39:28,573 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:39:28,576 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:39:28,578 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:39:28,632 INFO  AppStart 39 start - ready for stage show
+03 Apr 2019 08:39:36,576 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244883c3: startup date [Wed Apr 03 08:39:36 EEST 2019]; root of context hierarchy
+03 Apr 2019 08:39:36,602 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+03 Apr 2019 08:39:36,761 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:39:36,765 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:39:36,767 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:39:36,770 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:39:36,773 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 08:39:36,836 INFO  AppStart 39 start - ready for stage show
+03 Apr 2019 09:03:23,171 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5ce8d869: startup date [Wed Apr 03 09:03:23 EEST 2019]; root of context hierarchy
+03 Apr 2019 09:03:23,200 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+03 Apr 2019 09:03:23,418 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:03:23,422 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:03:23,426 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:03:23,430 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:03:23,433 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:07,914 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5ce8d869: startup date [Wed Apr 03 09:05:07 EEST 2019]; root of context hierarchy
+03 Apr 2019 09:05:07,950 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+03 Apr 2019 09:05:08,174 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:08,177 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:08,179 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:08,183 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:08,185 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:24,883 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5ce8d869: startup date [Wed Apr 03 09:05:24 EEST 2019]; root of context hierarchy
+03 Apr 2019 09:05:24,916 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+03 Apr 2019 09:05:25,124 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:25,127 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:25,129 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:25,132 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:25,134 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:05:50,749 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5ce8d869: startup date [Wed Apr 03 09:05:50 EEST 2019]; root of context hierarchy
+03 Apr 2019 09:05:50,777 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [../FestivalSpringXML.xml]
+03 Apr 2019 09:06:12,632 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5ce8d869: startup date [Wed Apr 03 09:06:12 EEST 2019]; root of context hierarchy
+03 Apr 2019 09:06:12,659 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+03 Apr 2019 09:06:12,860 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:06:12,864 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:06:12,867 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:06:12,870 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:06:12,873 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:06:28,916 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+03 Apr 2019 09:06:28,916 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+03 Apr 2019 09:06:28,916 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+03 Apr 2019 09:06:28,920 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+03 Apr 2019 09:10:21,396 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5ce8d869: startup date [Wed Apr 03 09:10:21 EEST 2019]; root of context hierarchy
+03 Apr 2019 09:10:21,442 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+03 Apr 2019 09:10:21,668 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:10:21,671 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:10:21,673 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:10:21,675 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:10:21,677 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:10:50,611 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+03 Apr 2019 09:10:50,611 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+03 Apr 2019 09:10:50,611 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+03 Apr 2019 09:10:50,616 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+03 Apr 2019 09:11:46,212 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5ce8d869: startup date [Wed Apr 03 09:11:46 EEST 2019]; root of context hierarchy
+03 Apr 2019 09:11:46,249 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+03 Apr 2019 09:11:46,555 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:11:46,558 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:11:46,561 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:11:46,565 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:11:46,568 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+03 Apr 2019 09:11:56,282 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+03 Apr 2019 09:11:56,283 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+03 Apr 2019 09:11:56,283 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+03 Apr 2019 09:11:56,286 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+06 Apr 2019 12:39:38,389 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@244883c3: startup date [Sat Apr 06 12:39:38 EEST 2019]; root of context hierarchy
+06 Apr 2019 12:39:38,423 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+06 Apr 2019 12:39:38,625 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+06 Apr 2019 12:39:38,628 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+06 Apr 2019 12:39:38,631 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+06 Apr 2019 12:39:38,636 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+06 Apr 2019 12:39:38,639 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+06 Apr 2019 12:39:38,706 INFO  AppStart 39 start - ready for stage show
+06 Apr 2019 12:39:42,568 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+06 Apr 2019 12:39:42,569 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+06 Apr 2019 12:39:42,571 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+06 Apr 2019 12:39:42,584 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+06 Apr 2019 12:39:42,746 INFO  org.springframework.context.support.AbstractApplicationContext 589 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@31f4426a: startup date [Sat Apr 06 12:39:42 EEST 2019]; root of context hierarchy
+06 Apr 2019 12:39:42,747 INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader 316 loadBeanDefinitions - Loading XML bean definitions from class path resource [FestivalSpringXML.xml]
+06 Apr 2019 12:39:42,788 INFO  repository.EntitiesRepos.ArtistDBRepo 31 <init> - Initializing ArtistDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+06 Apr 2019 12:39:42,790 INFO  repository.EntitiesRepos.ConcertDBRepository 30 <init> - Initializing concertDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+06 Apr 2019 12:39:42,791 INFO  repository.EntitiesRepos.LocationDBRepo 30 <init> - Intializaing Location Repository: {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+06 Apr 2019 12:39:42,793 INFO  repository.EntitiesRepos.TicketDBRepository 29 <init> - Initializing TicketDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+06 Apr 2019 12:39:42,794 INFO  repository.EntitiesRepos.UserDBRepository 32 <init> - Initializing UserDBRepo.... {repo.jdbc.driver=com.mysql.jdbc.Driver, repo.jdbc.user=root, repo.jdbc.url=jdbc:mysql://localhost:3306/Festival, repo.jdbc.pass=root123}
+06 Apr 2019 12:39:42,897 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+06 Apr 2019 12:39:42,898 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+06 Apr 2019 12:39:42,898 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+06 Apr 2019 12:39:42,898 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+06 Apr 2019 12:39:42,919 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+06 Apr 2019 12:39:42,920 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+06 Apr 2019 12:39:42,920 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+06 Apr 2019 12:39:42,920 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver
+06 Apr 2019 12:39:42,929 INFO  repository.DataBaseUtils.DBUtils 27 getNewConnection - trying to connect to database... jdbc:mysql://localhost:3306/Festival
+06 Apr 2019 12:39:42,930 INFO  repository.DataBaseUtils.DBUtils 28 getNewConnection - user: root
+06 Apr 2019 12:39:42,930 INFO  repository.DataBaseUtils.DBUtils 29 getNewConnection - pass: root
+06 Apr 2019 12:39:42,930 INFO  repository.DataBaseUtils.DBUtils 33 getNewConnection - Loaded driver ...com.mysql.jdbc.Driver

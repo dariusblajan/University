@@ -88,7 +88,7 @@ public class MainController {
                     DTOConcert concert = currentRow.getItem();
                     if (!isEmpty()) {
 
-                        if(item.equals(concert.getNumOfSeats())){
+                        if(item != null && concert != null && item.equals(concert.getNumOfSeats())){
                             currentRow.setStyle("-fx-background-color:lightgreen");
                         }
                     }
